@@ -5,7 +5,6 @@
 
 <img align= "center" src="https://github.com/calyxish/calyxish/blob/main/main%20thumbnail.png" alt="coding">
  
-<p align="left"> <a href="https://twitter.com/calyxish" target="blank"><img src="https://img.shields.io/twitter/follow/calyxish?logo=twitter&style=for-the-badge" alt="calyxish" /></a> </p>
 
 - 🔭 I’m currently working on **Make The World A Better Place**
 
