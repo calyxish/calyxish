@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calyxish&label=Profile%20views&color=0e75b6&style=flat" alt="calyxish" /> </p>
 
+<img align= "right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzN2NGVpcHoyYmQxYmhoa2VudXRvaGgwOTZla2w1bWtrdDF3ZjRpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="coding">
+
 <p align="left"> <a href="https://twitter.com/calyxish" target="blank"><img src="https://img.shields.io/twitter/follow/calyxish?logo=twitter&style=for-the-badge" alt="calyxish" /></a> </p>
 
 - 🔭 I’m currently working on **Make The World A Better Place**
