@@ -3,8 +3,8 @@
 <h3 align="center">As a passionate and resilient programmer, I thrive on creating innovative solutions, overcoming complex challenges, and continuously learning to enhance my skills and contribute effectively to any project or team.</h3>
 
 
-<img align= "right" height="70%" src="https://cdn.dribbble.com/userupload/12609824/file/original-0ebf1e6c9a64bfe1510cf8d72de99185.gif" alt="coding">
-
+<img align= "right" width= "100%" height="50%" src="https://cdn.dribbble.com/userupload/12609824/file/original-0ebf1e6c9a64bfe1510cf8d72de99185.gif" alt="coding">
+ 
 <p align="left"> <a href="https://twitter.com/calyxish" target="blank"><img src="https://img.shields.io/twitter/follow/calyxish?logo=twitter&style=for-the-badge" alt="calyxish" /></a> </p>
 
 - 🔭 I’m currently working on **Make The World A Better Place**
