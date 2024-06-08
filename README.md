@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Make The World A Better Place**
 
-<h2 align="left" color="#cd1025">Connect with me:</h2>
+<h2 align="left" forecolor="#cd1025">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/calyxish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calyxish" height="30" width="40" /></a>
 <a href="https://instagram.com/calyxish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calyxish" height="30" width="40" /></a>
