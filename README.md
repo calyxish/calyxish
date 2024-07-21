@@ -2,10 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=calyxish&label=Profile%20views&color=cd1025&style=flat" alt="calyxish" /> </p>
 <h3 align="center">As a passionate and resilient programmer, I thrive on creating innovative solutions, overcoming complex challenges, and continuously learning to enhance my skills and contribute effectively to any project or team.</h3>
 
-
 <img align= "center" src="https://github.com/calyxish/calyxish/blob/main/main%20thumbnail.png" alt="coding">
-
-
 
 - 🔭 I’m currently working on **Making The World A Better Place**
 
